@@ -1,3 +1,7 @@
 I am d file
 Multiple commits manager
+<<<<<<< HEAD
 burrrr
+=======
+Multiple commits manager
+>>>>>>> b9e32422da8c73cc2be4824d868ca45c6679ddd2
