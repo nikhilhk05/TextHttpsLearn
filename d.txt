@@ -1,1 +1,2 @@
 I am d file
+Multiple commits manager
